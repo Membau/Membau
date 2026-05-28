@@ -18,5 +18,5 @@
 ### 📫 Let's Connect!
 - Phone number: +84877581411
 - Email: membaunguyen@gmail.com
-- LinkedIn: [Membau Nguyen] (https://www.linkedin.com/in/membau/)
+- LinkedIn: [Membau Nguyen](https://www.linkedin.com/in/membau/)
 <!-- Bạn có thể thêm link LinkedIn hoặc Email vào đây -->
