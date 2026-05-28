@@ -20,8 +20,3 @@
 - Email: membaunguyen@gmail.com
 - LinkedIn: [Membau Nguyen] (https://www.linkedin.com/in/membau/)
 <!-- Bạn có thể thêm link LinkedIn hoặc Email vào đây -->
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Membau&show_icons=true&theme=radium" alt="Membau's GitHub Stats" />
-</p>
