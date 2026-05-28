@@ -1,4 +1,4 @@
-# Hi there 👋, I'm BKG (Membau)
+# Hi there 👋, I'm Membau
 
 🎓 **Computer Science Student** at Ho Chi Minh City University of Technology (HCMUT).
 💻 Passionate about **Backend Development, Big Data, and System Programming**.
